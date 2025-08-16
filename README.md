@@ -71,8 +71,3 @@ O diagrama abaixo representa o modelo. Ele está disponível em alta resolução
 
 ---
 
-## 📝 Observações
-
-- O modelo segue o padrão do desafio de projeto no GitHub [valladaofabricio/ordem_de_servico](https://github.com/valladaofabricio/ordem_de_servico).  
-- A nomenclatura foi mantida em português.  
-- Este modelo conceitual serve como base para derivar o **modelo lógico** (DDL SQL).  
